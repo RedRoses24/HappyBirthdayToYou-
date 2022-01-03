@@ -1,0 +1,32 @@
+.body_backgorund 
+{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/f/fd/Wikipedia20_animated_Confetti.gif");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+ border-style: ridge;  
+}
+#btn{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: black;
+    max-height: 200px;
+    max-width: 100px;
+}
+p{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: black;
+    max-height: 600px;  
+    max-width: 600px;
+    margin-top: 20px;
+}
+#myText{
+    margin-bottom: 20px;
+}
